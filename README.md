@@ -29,7 +29,7 @@ model: About training models and model files with png
 ### input
 input: The file includes datasets, dictionaries and stop words
 *****************************************************************
-## start file
+## Start File
 ### choose model
 Select the main models you need, including traditional models and deep learning models. Then select the actual model. This example selects the Text-CNN model (one of the deep learning models). The function call sequence is: main-> data_detail_deep ()-> text_cnn ()
 ### run file
