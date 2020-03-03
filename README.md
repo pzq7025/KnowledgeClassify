@@ -8,7 +8,7 @@ operator system == Windows10
 python == 3.6.5
 ### tensorflow
 tensorflow == 1.14.0
-### kersa
+### keras
 keras == 2.2.5
 ### numpy
 numpy == 1.16.2
