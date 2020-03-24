@@ -35,5 +35,5 @@ Select the main models you need, including traditional models and deep learning 
 ### run file
 run model_build.py
 *****************************************************************
-Because convert the English of computer knowledge is too big to upload GitHub, so we provide the origin web to download this data by yourself. Then you can use the convert.py to extract the knowledge text and it will store in the DataConvert.csv file. if your need the other data, you should look up the txt file and write rules to get you to want data.
+Because convert the English of computer knowledge is too big to upload GitHub, so we provide the origin web to download this data by yourself. Then you can use the convert.py to extract the knowledge text and it will store in the ./input/DataConvert.csv file. if your need the other data, you should look up the txt file and write rules to get you to want data.
 SciKG:https://static.aminer.org/g/SciKG/SciKG_min_jsonld_1.0.tar.gz
